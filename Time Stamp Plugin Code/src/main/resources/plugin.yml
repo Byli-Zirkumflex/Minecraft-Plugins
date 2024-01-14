@@ -1,0 +1,8 @@
+name: TimeStemp
+version: '${project.version}'
+main: zirkumflex.dev.TimeStemp
+api-version: 1.20
+prefix: [ ZF_DEV ]
+authors: [ ZirkumflexDevelopment, Byli ]
+description: TimeStamp for Minecraft Players
+website: www.zirkumflex.dev
